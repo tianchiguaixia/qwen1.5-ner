@@ -5,9 +5,9 @@
 - 大模型训练的数据格式处理。
 
 ## 数据集选择
-任务名称：中文医学命名实体识别V2（CMeEE-V2）
-链接：https://tianchi.aliyun.com/dataset/95414
-任务内容：将医学文本命名实体划分为九大类，包括：疾病(dis)，临床表现(sym)，药物(dru)，医疗设备(equ)，医疗程序(pro)，身体(bod)，医学检验项目(ite)，微生物类(mic)，科室(dep)。
+- 任务名称：中文医学命名实体识别V2（CMeEE-V2）
+- 链接：https://tianchi.aliyun.com/dataset/95414
+- 任务内容：将医学文本命名实体划分为九大类，包括：疾病(dis)，临床表现(sym)，药物(dru)，医疗设备(equ)，医疗程序(pro)，身体(bod)，医学检验项目(ite)，微生物类(mic)，科室(dep)。
 
 
 ## 微调框架
