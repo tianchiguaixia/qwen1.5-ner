@@ -14,10 +14,10 @@
 https://swift.readthedocs.io/zh-cn/latest/Instruction/LLM%E5%BE%AE%E8%B0%83%E6%96%87%E6%A1%A3.html
 
 
-## 测试集结果
-排行榜：
+## 排行榜
 ![image](https://github.com/user-attachments/assets/02e9616f-11ef-49ad-ba2c-5ad6c584b61d)
-自己结果：
+
+## 自己微调结果
 ![image](https://github.com/user-attachments/assets/191a179c-6516-4239-8f92-387eb22ed0fb)
 
 ## 结论
